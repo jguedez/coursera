@@ -8,3 +8,7 @@ I've taken many other courses in the past, but only new courses are posted here
 (might revisit this in the future if I find the code for the assignments)
 
 The solutions are encrypted to comply with the honor code...
+
+Courses
+-------
+* Principles of Reactive Programming (reactive / Nov 2013)
